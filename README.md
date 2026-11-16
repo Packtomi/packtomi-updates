@@ -1,2 +1,2 @@
-# towbees-updates
+# packtomi-updates
 Software Update
